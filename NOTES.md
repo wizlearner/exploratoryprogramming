@@ -1,9 +1,11 @@
-##Steps to setup https://github.com/fastai/nbdev/: using the blog 
+## Steps to setup https://github.com/fastai/nbdev/: using the blog 
 https://towardsdatascience.com/a-step-by-step-introduction-to-starting-nbdev-exploratory-programming-4a761ed1f796
 
 also see https://www.reviewnb.com/
 
-##Other interesting blog reads
+## Other interesting blog reads
+
+List
 1.https://reflectivedata.com/jupyter-notebooks-in-wordpress/
 2. https://www.reddit.com/r/programming/comments/e4zj1y/nbdev_a_python_programming_environment_which/
 3. There is also a notebook project from Netflix called Polynote that support Scala and Python interop. 
